@@ -499,7 +499,7 @@
 
 /* ----------SECTION------------ */
 .container1 {
-    width: 2400px;
+    width: 1700px;
     height: 543px;
     top: 3028px;
     padding-top: 56px;
@@ -509,6 +509,9 @@
     gap: 16px;
     background: #00BAFC;
     margin-top: 50PX;
+    max-width: 1900px;
+    margin: 0 auto;
+    padding: 0 20px;
 
 }
 
@@ -582,12 +585,24 @@
     border: none;
     margin-bottom: 27px;
 }
+.section__container{
+    max-width: 1900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
 
 /* ------FOOTER---- */
 
 .footer__image {
-    width: 2400px;
-    height: 600px;
+    width: 1700px;
+    height: 500px;
     top: 3571px;
+    align-items: center;
 
+
+}
+.footer__container{
+    max-width: 1700px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
