@@ -55,7 +55,12 @@
     color: white;
     border: 1px solid #00BAFC;
 }
-
+.btn:hover{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    box-shadow: 6px 7px 11px 8px green;
+}
 .header__link {
     color: white;
 }
@@ -97,6 +102,12 @@
     background: #00BAFC;
     border: 1px solid #00BAFC;
     color: white;
+}
+.wrapper__btn:hover{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    box-shadow: 6px 7px 11px 8px green;
 }
 
 .wrapper__container {
@@ -228,6 +239,12 @@
     border: 1px solid #00BAFC;
     color: white;
 
+}
+.wrap__btn:hover{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px 5px green;
 }
 
 .wrap__link {
